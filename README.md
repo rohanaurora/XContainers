@@ -10,11 +10,11 @@ A convenience constructor is a method that performs allocations and initializati
 
 #### Usage
 
-    ShippingInfo *inputAddress = [ShippingInfo shippingInfoWithRecipientName:@"Jason Wilson"
+    ShippingInfo *inputAddress = [ShippingInfo shippingInfoWithRecipientName:@"Jason Miller"
                                                                    withLine1:@"431 Throckmorton Ave"
-                                                                   withLine2:@"Apt. 17"
-                                                                    withCity:@"Mill Valley"
+                                                                   withLine2:@"Apt. 177"
+                                                                    withCity:@"San Jose"
                                                                    withState:@"CA"
-                                                                 withZipCode:@"94941"
+                                                                 withZipCode:@"95126"
                                                              withCountryCode:@"US"];
 
