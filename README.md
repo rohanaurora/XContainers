@@ -5,8 +5,7 @@
 A convenience constructor is a method that performs allocations and initialization in one step and returns an instance.
 
 
->XContainers provides you implementation of Shipping Address container - `ShippingInfo` that can be used in your static library or iOS app.
-
+>XContainers provides you implementation of Shipping Address and Credit Card Information container that can be used directly in your Xcode project.
 
 #### Usage
 
