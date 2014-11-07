@@ -1,6 +1,5 @@
 //
 //  CreditCardInfo.h
-//  ZoneTest
 //
 //  Created by Rohan Aurora on 10/20/14.
 //  Copyright (c) 2014 Rohan Aurora. All rights reserved.
